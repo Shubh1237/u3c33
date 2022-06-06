@@ -1,0 +1,9 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+#form{
+    margin: auto;
+    margin-top: 20px;
+}
